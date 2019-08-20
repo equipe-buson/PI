@@ -9,4 +9,15 @@
     <string name="invalid_username">Usuário não válidado</string>
     <string name="invalid_password">Senha deve ter mais de 5 caracteres</string>
     <string name="login_failed">"Falha no login"</string>
+    
+    <string-array name="spinner">
+
+        <item>Escolha seu destino</item>
+        <item>Terminal - Bela Vista</item>
+        <item>Bela Vista - Terminal</item>
+        <item>Terminal - Poço Grande</item>
+        <item>Poço Grande - Terminal</item>
+
+    </string-array>
+    
 </resources>
